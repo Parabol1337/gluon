@@ -1,8 +1,8 @@
-From: Parabol1337
-Date: Wed, 23 Sep 2020 20:05:53 +0200
+From: Adrian Schmutzler <freifunk@adrianschmutzler.de>
+Date: Wed, 10 Oct 2018 20:05:53 +0200
 Subject: firmware-utils: tplink-safeloader: Add CPE210 v3
 
-Add TP-Link CPE210 v3.X to the support list.
+Add TP-Link CPE210 v3 to the support list.
 It's identical to the v2.
 
 Signed-off-by: Robert Marko <robimarko@gmail.com>
